@@ -14,4 +14,6 @@ if n=3, then (2*3)C3/(3+1)
          --------Ans=5-------
 <br />
 
-The Time taken to search a key in a BST depends on the height of the BST, i.e., the time complexity lies between o(log n) and O(n)
+<h2>The Time taken to search a key in a BST depends on the height of the BST, i.e., the time complexity lies between o(log n) and O(n)</h2>
+
+<h2>Note: When u delete a node(root or any other random node) of a binary search tree then it is replaced by its inorder predecessor or inorder successor</h2>
