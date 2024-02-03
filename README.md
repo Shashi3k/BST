@@ -1,5 +1,5 @@
 # BST
-Important Points:
+<h1>Important Points:</h1>
 1. No Duplicates
 2. Inorder traversal gives sorted order
 3. If there are "n" nodes present then no. of binary search trees that can be produced is:
